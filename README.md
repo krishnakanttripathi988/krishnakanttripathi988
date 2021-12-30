@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
-# Hackerrank Profile = https://www.hackerrank.com/tripathikrishna2
-# HackerEarth Profile = https://www.hackerearth.com/@tripathikrishnakanttripathi
-# codechef Profile = https://www.codechef.com/users/krishnakant988
-# codeforces Profile = https://codeforces.com/profile/krisonakant988
+### Hackerrank Profile = https://www.hackerrank.com/tripathikrishna2
+### HackerEarth Profile = https://www.hackerearth.com/@tripathikrishnakanttripathi
+### codechef Profile = https://www.codechef.com/users/krishnakant988
+### codeforces Profile = https://codeforces.com/profile/krisonakant988
 
 
 <!--
