@@ -4,6 +4,7 @@
 ### HackerEarth Profile = https://www.hackerearth.com/@tripathikrishnakanttripathi
 ### codechef Profile = https://www.codechef.com/users/krishnakant988
 ### codeforces Profile = https://codeforces.com/profile/krisonakant988
+### Linkedin Profile = https://www.linkedin.com/in/krishnakant-tripathi/
 
 
 <!--
