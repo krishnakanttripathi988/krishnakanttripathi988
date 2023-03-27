@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-### Hackerrank Profile = https://www.hackerrank.com/tripathikrishna2 {:target="_blank"}
-### HackerEarth Profile = https://www.hackerearth.com/@tripathikrishnakanttripathi {:target="_blank"}
-### codechef Profile = https://www.codechef.com/users/krishnakant988 {:target="_blank"}
-### codeforces Profile = https://codeforces.com/profile/krisonakant988 {:target="_blank"}
-### Linkedin Profile = https://www.linkedin.com/in/tripathikrishna/ {:target="_blank"}
+### Hackerrank Profile = https://www.hackerrank.com/tripathikrishna2
+### HackerEarth Profile = https://www.hackerearth.com/@tripathikrishnakanttripathi
+### codechef Profile = https://www.codechef.com/users/krishnakant988
+### codeforces Profile = https://codeforces.com/profile/krisonakant988
+### Linkedin Profile = https://www.linkedin.com/in/tripathikrishna/
 
 
 <!--
