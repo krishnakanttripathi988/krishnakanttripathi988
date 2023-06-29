@@ -45,8 +45,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/krishnakanttripathi988">
+<p align="center" style="display: flex; justify-content: center;">
+<a href="https://github.com/krishnakanttripathi988" style="display: flex; align-items: center;">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnakanttripathi988&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnakanttripathi988&layout=compact&langs_count=8&theme=algolia"/>
 </a>
