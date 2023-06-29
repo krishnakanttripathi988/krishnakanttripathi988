@@ -7,7 +7,7 @@
 ### Linkedin Profile = https://www.linkedin.com/in/tripathikrishna/ -->
 ![Krishna Kant Banner](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpeg)
 
-<img alt="Night Coding" src="[./assets/Hand%20Wave.gif](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif)" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src=[./assets/Hand%20Wave.gif](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif) width='40' align="left"/>
 
 ## ![Waving Hand](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/waving.gif) &nbsp;Hey there! I'm Krishna Kant Tripathi
 
