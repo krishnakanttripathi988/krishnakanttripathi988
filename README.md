@@ -7,7 +7,7 @@
 ### Linkedin Profile = https://www.linkedin.com/in/tripathikrishna/ -->
 ![Krishna Kant Banner](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpeg)
 
-<img alt="Night Coding" src=[./assets/Hand%20Wave.gif](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif) width='40' align="left"/>
+<img alt="Night Coding" src="https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif" width='40' align="left"/>
 
 ## ![Waving Hand](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/waving.gif) &nbsp;Hey there! I'm Krishna Kant Tripathi
 
@@ -18,10 +18,10 @@
 🌱 &nbsp;I have hands on knowledge on backend, frontend and machine learning.\
 ✍️ &nbsp;I have few open source contribution.\
 💬 &nbsp;Feel free to reach out to me any technical discussion and help.\
-✉️ &nbsp;You can shoot me an email at tripathikrishnakanttriapthi@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at tripathikrishnakanttriapthi@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume]([Krishna Kant's Resume](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/97ce356af5b372cf31b7706ef73dba1bbabd2bd1/assets/KRISHNA_KANT.pdf)) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="[./assets/Hand%20Wave.gif](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif)" align="right"/>
+<img alt="Night Coding" src="https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
