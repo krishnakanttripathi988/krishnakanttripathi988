@@ -5,7 +5,7 @@
 ### codechef Profile = https://www.codechef.com/users/krishnakant988
 ### codeforces Profile = https://codeforces.com/profile/krisonakant988
 ### Linkedin Profile = https://www.linkedin.com/in/tripathikrishna/ -->
-![Krishna Kant Banner](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.jpeg)
+![Krishna Kant Banner](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/e309bf5b0beb174263cf4ada4711dba9961b3209/assets/github-banner.jpeg)
 
 <!--<img alt="Night Coding" src="https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif" width='40' align="left"/>-->
 
