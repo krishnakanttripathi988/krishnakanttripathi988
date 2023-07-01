@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!-- ### Hackerrank Profile = https://www.hackerrank.com/tripathikrishna2
 ### HackerEarth Profile = https://www.hackerearth.com/@tripathikrishnakanttripathi
