@@ -19,7 +19,7 @@
 ✍️ &nbsp;I have few open source contribution.\
 💬 &nbsp;Feel free to reach out to me any technical discussion and help.\
 ✉️ &nbsp;You can shoot me an email at tripathikrishnakanttriapthi@gmail.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my ([Krishna Kant's Resume](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/97ce356af5b372cf31b7706ef73dba1bbabd2bd1/assets/KRISHNA_KANT.pdf)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/97ce356af5b372cf31b7706ef73dba1bbabd2bd1/assets/KRISHNA_KANT.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://github.com/krishnakanttripathi988/krishnakanttripathi988/blob/3ab4f8b9ca956bbb63e35b065fdd5046d1ef6ef5/assets/Night-Coding.gif" align="right"/>
 
